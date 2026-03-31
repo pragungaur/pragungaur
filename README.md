@@ -57,7 +57,7 @@ motto     : "Work smarter. Automate harder."
 <div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=pragungaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragungaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=pragungaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" width="48%"/>
 
 <br/><br/>
 
