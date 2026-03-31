@@ -1,30 +1,132 @@
-<h1 align="center">Hi 👋, I'm Pragun Gaur</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragungaur&label=Profile%20views&color=0e75b6&style=flat" alt="pragungaur" /> </p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:16px;" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragungaur" alt="pragungaur" /></a> </p>
+<br/><br/>
 
-- 🔭 I’m currently working on [NodeWise](https://nodewise.in/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=yo+i'm+Pragun+%F0%9F%91%8B;Founder+%40+NodeWise+%F0%9F%A4%96;AI+Automation+%7C+Chatbots+%7C+No-Code;I+don't+just+build+—+I+automate+%E2%9A%A1)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Ai Automations**
+<br/>
 
-- 💫 I need help with [NodeWise - Ai automation](https://nodewise.in/)
+<img src="https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif" width="180px" align="right"/>
 
-- 👨‍💻 All of my projects are available at [https://nodewise.in/](https://nodewise.in/)
+</div>
 
-- 📫 How to reach me **nodewise.in@gmail.com**
+---
 
-- ⚡ Fun fact **I am not funny ahahaha**
+## 🌸 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nodewise.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nodewise.in" height="30" width="40" /></a>
-</p>
+```yaml
+name      : Pragun Gaur
+alias     : pragungaur
+role      : Founder @ NodeWise
+location  : India 🇮🇳
+agency    : AI Automation — Chatbots, WhatsApp, Workflows
+approach  : Vibe-code first, ask questions later
+currently : Cold calling my way to the top 📞
+motto     : "Work smarter. Automate harder. Stay based."
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragungaur&show_icons=true&locale=en&layout=compact" alt="pragungaur" /></p>
+## ⚡ Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragungaur&show_icons=true&locale=en" alt="pragungaur" /></p>
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pragungaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EB4&icon_color=FF6EB4&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragungaur&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6EB4&fire=FF6EB4&currStreakLabel=FFFFFF" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragungaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EB4&text_color=FFFFFF" width="40%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragungaur/pragungaur/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragungaur/pragungaur/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pragungaur/pragungaur/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🎯 What NodeWise Builds
+
+<div align="center">
+
+| 🔧 Service | 💬 What It Does | 🚦 Status |
+|-----------|----------------|----------|
+| 🤖 AI Chatbots | Smart bots for leads, support & sales | 🟢 Live |
+| 📲 WhatsApp Automation | Auto-replies, follow-ups, broadcasts | 🟢 Live |
+| ⚙️ Workflow Automation | n8n / Make flows for any business | 🟢 Live |
+| 📱 Social Media Auto | Scheduling, DMs, content pipelines | 🟢 Live |
+| 📞 Outreach Systems | Cold call + CRM tracking tools | 🔨 Building |
+
+</div>
+
+---
+
+## 🌸 Anime Corner
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="180px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="180px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/4ilFonOPlQwLm9ftLs/giphy.gif" width="180px"/>
+
+<br/><br/>
+
+> *"The only ones who should kill are those who are prepared to be killed."*
+> — Code Geass
+
+</div>
+
+---
+
+## 🤝 Hit Me Up
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@nodewise.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nodewise.in)
+[![Email](https://img.shields.io/badge/pragun@nodewise.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragun@nodewise.in)
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=pragungaur&color=FF6EB4&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80px"/>
+<br/>
+<sub>⚡ Built with vibes by Pragun · NodeWise © 2025</sub>
+</div>
