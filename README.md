@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:16px;" />
+<!-- BANNER: Goku Ultra Instinct / DBZ wide banner -->
+<img src="https://media.giphy.com/media/ygBDe3FhqoGhW/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:16px;" />
 
 <br/><br/>
 
@@ -8,7 +9,8 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif" width="180px" align="right"/>
+<!-- RIGHT SIDE: Luffy / One Piece -->
+<img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="180px" align="right"/>
 
 </div>
 
@@ -95,11 +97,14 @@ motto     : "Work smarter. Automate harder. Stay based."
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="180px"/>
+<!-- Goku SSJ DBZ -->
+<img src="https://media.giphy.com/media/2HONNTJbRhzKE/giphy.gif" width="180px" title="Goku 🔥"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="180px"/>
+<!-- Naruto Run -->
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="180px" title="Naruto ⚡"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/4ilFonOPlQwLm9ftLs/giphy.gif" width="180px"/>
+<!-- Demon Slayer / Tanjiro -->
+<img src="https://media.giphy.com/media/xT0BKqB8sBMHJmNkFq/giphy.gif" width="180px" title="Demon Slayer 🌊"/>
 
 <br/><br/>
 
